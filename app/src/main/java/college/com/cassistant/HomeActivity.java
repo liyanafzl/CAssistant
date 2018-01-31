@@ -11,7 +11,7 @@ import android.widget.Button;
  */
 public class HomeActivity extends AppCompatActivity {
 //commit
-    private int i;
+    private int i;//
     private Button activity_home_taskButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
