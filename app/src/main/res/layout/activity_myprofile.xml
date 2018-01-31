@@ -13,7 +13,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:text="Name : "
             android:textColor="@color/black"
@@ -34,7 +34,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:text="Email : "
                 android:textColor="@color/black"
@@ -55,7 +55,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:text="Age : "
                 android:textColor="@color/black"
@@ -76,9 +76,9 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="100dp"
                 android:layout_height="wrap_content"
-                android:text="Phone no. : "
+                android:text="Mobile no: "
                 android:textColor="@color/black"
                 android:layout_margin="20dp"
                 android:textSize="21dp"/>
@@ -97,7 +97,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:text="Gender : "
                 android:textColor="@color/black"
@@ -118,7 +118,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:text="Address : "
                 android:textColor="@color/black"
