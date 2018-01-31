@@ -1,5 +1,6 @@
 package college.com.cassistant;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -33,6 +34,9 @@ public class SignInActivity extends AppCompatActivity {
 
         signin_button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
+
+                Intent i = new Intent(SignInActivity.this, ScanActivity.class);
+                startActivity(i);
 
             }
         });
